@@ -86,7 +86,7 @@
     <div class="role-list">
         <div class="role  mt-10">
             <h3 class="h3 font-bold">Graphics Designer</h3>
-            <p class="max-w-2xl mx-auto">our best is an idiot! So I really am important? How I feel
+            <p class="max-w-xl mx-auto mt-2">our best is an idiot! So I really am important? How I feel
                 when I’m drunk is correct? Michelle, I don’t regret this, but I
                 both rue and lament it. Oh sure! Blame the wizards!</p>
             <a class="label-text" href="">talk to us</a>
