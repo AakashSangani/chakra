@@ -17,23 +17,23 @@
             </div>
         </section>
         <section class="bg-gray-300">
-            <section class="container mx-auto mt-4 p-8">
-                <div id="service-list" class="flex bg-gray">
+            <section  id="service-list" class="container">
+                <div class="flex">
                     <div class="service-item w-1/3">
                     <span class="icon-container">
-                        <img class="bg-gray-400 w-12 h-12" src="/" alt="">
+                        <img src="/" alt="">
                     </span>
                         <p>Product Design</p>
                     </div>
                     <div class="service-item w-1/3">
                     <span class="icon-container">
-                        <img class="bg-gray-400 w-12 h-12" src="/" alt="">
+                        <img src="/" alt="">
                     </span>
                         <p>Digital Marketing</p>
                     </div>
                     <div class="service-item w-1/3">
                     <span class="icon-container">
-                        <img class="bg-gray-400 w-12 h-12" src="/" alt="">
+                        <img src="/" alt="">
                     </span>
                         <p>Media Production</p>
                     </div>
@@ -44,36 +44,36 @@
 </section>
 <section class="project-list ">
     <section>
-        <div class="container mx-auto project-item px-8 py-20">
+        <div class="container project-item">
             <h3 class="h1">Organo</h3>
-            <p class="max-w-xl mt-2">Your best Sis an idiot! So I really am important? How I feel
+            <p>Your best Sis an idiot! So I really am important? How I feel
                 when I’m drunk is correct? Michelle, I don’t regret this, but I
                 both rue and lament it. Oh sure! Blame the wizards!</p>
             <a class="label-text" href="">Visit Website</a>
         </div>
     </section>
     <section class="bg-gray-300">
-        <div class="container mx-auto project-item px-8 py-20">
+        <div class="container project-item">
             <h3 class="h1">Sgrid</h3>
-            <p class="max-w-xl mt-2">Your best is an idiot! So I really am important? How I feel
+            <p>Your best is an idiot! So I really am important? How I feel
                 when I’m drunk is correct? Michelle, I don’t regret this, but I
                 both rue and lament it. Oh sure! Blame the wizards!</p>
             <a class="label-text" href="">Visit Website</a>
         </div>
     </section>
     <section>
-        <div class="container mx-auto project-item py-20 px-8">
+        <div class="container project-item">
             <h3 class="h1">Caterpillar Wings</h3>
-            <p class="max-w-xl mt-2">Your best is an idiot! So I really am important? How I feel
+            <p>Your best is an idiot! So I really am important? How I feel
                 when I’m drunk is correct? Michelle, I don’t regret this, but I
                 both rue and lament it. Oh sure! Blame the wizards!</p>
             <a class="label-text" href="">Visit Website</a>
         </div>
     </section>
     <section class="bg-gray-300">
-        <div class="container mx-auto project-item py-20 px-8 ">
+        <div class="container project-item ">
             <h3 class="h1">Siddharth Bajpai</h3>
-            <p class="max-w-xl mt-2">Your best is an idiot! So I really am important? How I feel
+            <p>Your best is an idiot! So I really am important? How I feel
                 when I’m drunk is correct? Michelle, I don’t regret this, but I
                 both rue and lament it. Oh sure! Blame the wizards!</p>
             <a class="label-text" href="">Visit Website</a>
@@ -81,7 +81,7 @@
     </section>
 </section>
 <section class="container hiring mx-auto py-20">
-    <h2 class="h2 max-w-5xl">Michelle, I don’t regret this, but I both rue and
+    <h2 class="h2 mx-auto max-w-6xl">Michelle, I don’t regret this, but I both rue and
         lament it. Oh sure! Blame the wizards!</h2>
     <div class="role-list">
         <div class="role  mt-10">
@@ -93,7 +93,7 @@
         </div>
     </div>
     <div>
-        <h3 class="h3 mt-6">More roles coming soon!</h3>
+        <h3 class="h3 mt-8">More roles coming soon!</h3>
     </div>
 </section>
 @endsection

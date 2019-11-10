@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,700&display=swap');
 
-*,html,body {
+*, html, body {
     font-family: "Titillium Web", sans-serif;
     font-smoothing: antialiased;
     -moz-osx-font-smoothing: antialiased;
@@ -26,6 +26,7 @@
     font-size: 35px;
     line-height: 1.2em;
 }
+
 .body-text, p {
     font-size: 18px;
     letter-height: 1.5em;
@@ -60,4 +61,32 @@ button {
 .service-item p {
     font-weight: bold;
     font-size: 35px;
+}
+
+.project-item {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project-item p{
+    margin-top: 0.5rem;
+    max-width: 36rem;
+}
+
+#service-list {
+    background-color: #e2e8f0;
+    padding: 2rem;
+    margin: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.service-item img{
+    width: 3rem;
+    height: 3rem;
+    background-color: #cbd5e0;
 }
