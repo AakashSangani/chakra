@@ -18,8 +18,8 @@
             <a class="label-text" href="">Contact</a>
         </div>
         <div>
-                <span id="brand">
-                    <img src="" alt="">
+                <span id="brand" class="justify-end">
+                    <img class="bg-black" src="" alt="">
                 </span>
         </div>
     </div>
