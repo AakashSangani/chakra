@@ -54,15 +54,6 @@ button {
     margin-top: 0.5em;
 }
 
-.hiring {
-    text-align: center;
-}
-
-.service-item p {
-    font-weight: bold;
-    font-size: 35px;
-}
-
 .project-item {
     padding-top: 5rem;
     padding-bottom: 5rem;
@@ -85,8 +76,60 @@ button {
     margin-right: auto;
 }
 
+.service-item{
+    width: 33.333%;
+}
+
+.service-item p {
+    font-weight: bold;
+    font-size: 35px;
+}
+
 .service-item img{
     width: 3rem;
     height: 3rem;
     background-color: #cbd5e0;
+}
+
+#intro-section {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+#logo{
+    width: 25%;
+    padding: 1.5rem;
+}
+
+.hiring{
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.role {
+    margin-top: 2.5rem;
+}
+
+.role p{
+    max-width: 36rem;
+    margin-top: 0.5rem;
+}
+.intro {
+    padding: 2rem;
+    width: 75%;
+}
+
+.intro h1{
+    margin-bottom: 0.5rem;
+}
+
+.chakra-logo {
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+}
+
+.hiring h2 {
+    max-width: 72rem;
 }
